@@ -6,12 +6,12 @@ data_pca <- read.delim("HH.bacteria_ARG_RF.txt",sep = "\t", header = T)
 # Split the dataset
 set.seed(123)  # For reproducibility
 sample_indices <- sample(1:nrow(data_pca), nrow(data_pca) * 0.3)  # 30% test set
-train_data <- data_pca[sample_indices, ]
-test_data <- data_pca[-sample_indices, ]
+test_data <- data_pca[sample_indices, ]
+train_data <- data_pca[-sample_indices, ]
 
 # Random forest modeling using the first 13 principal components to predict HH.ARG
 library(randomForest)
-rf_model <- randomForest(HH.ARG ~ ., ntree = 500, data = data_pca, importance = TRUE, nrep = 1000)
+rf_model <- randomForest(HH.ARG ~ ., ntree = 500, data = train_data, importance = TRUE, nrep = 1000)
 rf_model
 
 # Predictions
