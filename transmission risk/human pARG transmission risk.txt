@@ -1,0 +1,2 @@
+	Livestock 	Human	Wildlife	Food	Fresh water	Soil	Aquatic organism	Sediments	Plant	Insects	Seawater
+Transmission capability	0.7283	1	0.8485	0.9569	1.0842	0.7819	1.021	1.0785	1.0657	0.8776	1.0777
