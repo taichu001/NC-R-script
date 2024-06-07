@@ -1,0 +1,644 @@
+habitat	latitude	longitude	number
+Seawater	"	-62.4"	50.00 	2
+Soil	"	50.28"	-107.80 	4
+Food	"	37.9838"	23.73 	1
+Sediment	53.99 	162.38 	4
+Wild animal	84.35 	27.53 	1
+Surface water	82.59 	-80.60 	2
+Seawater	78.55 	12.04 	2
+Soil	78.53 	12.40 	2
+Soil	77.86 	40.80 	3
+Sediment	76.46 	125.50 	2
+Seawater	75.64 	-158.81 	1
+Seawater	74.32 	-159.44 	1
+Soil	72.37 	126.48 	3
+Sediment	69.28 	20.00 	1
+Soil	68.35 	19.05 	2
+Seawater	67.67 	-168.95 	2
+Sediment	64.90 	-51.13 	2
+Sediment	64.80 	-51.10 	4
+Sediment	63.20 	90.41 	1
+Sediment	61.39 	7.90 	1
+Sediment	61.34 	8.90 	3
+Soil	60.91 	68.75 	2
+Sediment	60.47 	-93.58 	1
+Human	60.27 	22.15 	2
+Seawater	60.16 	5.12 	1
+Wild animal	60.13 	-18.64 	5
+Human	60.10 	25.50 	3
+Plant	60.00 	10.79 	2
+Food	59.68 	10.76 	6
+Human	59.56 	10.42 	3
+Aquatic organism	56.77 	-5.23 	1
+Animal husbandry	56.67 	-10.76 	3
+Sediment	56.24 	10.34 	2
+Insect	55.69 	36.73 	2
+Human	55.67 	12.57 	4
+Soil	55.55 	55.60 	2
+Insect	55.50 	-3.07 	4
+Human	55.45 	37.37 	9
+Human	55.43 	12.34 	3
+Animal husbandry	55.40 	-12.32 	2
+Animal husbandry	55.40 	12.32 	1
+Surface water	54.25 	90.13 	3
+Seawater	54.18 	7.90 	2
+Animal husbandry	53.97 	-116.62 	1
+Animal husbandry	53.96 	-116.61 	1
+Animal husbandry	53.95 	-116.60 	1
+Animal husbandry	53.94 	-116.59 	1
+Animal husbandry	53.93 	-116.58 	6
+Seawater	53.67 	-129.13 	2
+Sediment	53.59 	12.53 	3
+Food	53.54 	-113.49 	3
+Food	53.00 	-8.00 	7
+Seawater	52.59 	1.74 	2
+Human	52.52 	13.41 	2
+Wild animal	52.45 	13.19 	1
+Wild animal	52.24 	21.02 	1
+Plant	52.13 	5.29 	2
+Human	52.00 	0.00 	12
+Soil	51.98 	5.67 	4
+Food	51.90 	-8.48 	4
+Human	51.90 	-8.48 	2
+Soil	51.82 	11.70 	5
+Surface water	51.78 	104.92 	2
+Animal husbandry	51.52 	85.54 	2
+Human	51.51 	0.13 	1
+Wild animal	51.45 	30.07 	2
+Wild animal	51.39 	30.07 	3
+Wild animal	51.32 	12.39 	2
+Human	51.00 	5.40 	4
+Sediment	50.96 	13.78 	4
+Plant	50.96 	6.86 	2
+Plant	50.96 	35.86 	3
+Plant	50.96 	6.86 	3
+Wild animal	50.80 	8.81 	1
+Soil	50.28 	-107.76 	2
+Surface water	50.17 	12.58 	2
+Insect	50.10 	8.22 	3
+Animal husbandry	49.97 	88.13 	3
+Wild animal	49.57 	89.01 	3
+Food	49.26 	-123.25 	2
+Wild animal	49.23 	116.29 	3
+Animal husbandry	49.17 	6.53 	3
+Insect	48.85 	2.35 	1
+Surface water	48.85 	14.49 	4
+Human	48.66 	-91.55 	1
+Seawater	48.59 	-123.51 	2
+Plant	48.56 	9.13 	1
+Human	48.54 	-2.18 	1
+Human	48.53 	-2.19 	2
+Human	48.52 	2.25 	1
+Plant	48.45 	-122.32 	2
+Soil	47.91 	45.38 	1
+Soil	47.91 	45.38 	3
+Soil	47.86 	127.76 	2
+Surface water	47.82 	13.37 	2
+Surface water	47.76 	9.13 	2
+Human	47.66 	-122.28 	2
+Food	47.49 	19.05 	2
+Plant	47.48 	8.22 	4
+Surface water	47.30 	8.57 	1
+Surface water	47.10 	-99.10 	2
+Human	47.00 	8.51 	1
+Animal husbandry	47.00 	6.00 	1
+Human	46.95 	7.42 	6
+Surface water	46.68 	7.72 	1
+Surface water	46.65 	-81.32 	2
+Sediment	46.54 	10.56 	1
+Food	46.51 	-63.42 	4
+Sediment	46.51 	10.30 	1
+Sediment	46.20 	7.33 	1
+Sediment	46.18 	9.56 	3
+Surface water	45.98 	8.97 	2
+Surface water	45.84 	8.62 	1
+Surface water	45.84 	8.70 	1
+Surface water	45.83 	8.61 	1
+Surface water	45.82 	8.73 	1
+Human	45.77 	126.65 	1
+Animal husbandry	45.71 	3.01 	10
+Aquatic organism	45.68 	111.05 	5
+Plant	45.65 	-122.84 	1
+Wild animal	45.61 	-91.76 	2
+Animal husbandry	45.59 	-95.87 	2
+Surface water	45.54 	-72.05 	1
+Food	45.50 	-73.57 	4
+Sediment	45.47 	6.53 	1
+Human	45.46 	9.19 	1
+Human	45.46 	9.19 	1
+Human	45.46 	9.19 	1
+Human	45.42 	-75.70 	2
+Wild animal	45.30 	88.99 	2
+Wild animal	45.28 	88.99 	3
+Surface water	45.04 	-73.08 	3
+Insect	44.99 	-93.18 	2
+Seawater	44.69 	-63.64 	1
+Wild animal	44.68 	-62.72 	3
+Plant	44.55 	-123.25 	1
+Sediment	44.53 	6.17 	1
+Surface water	44.51 	-110.36 	3
+Plant	44.23 	-76.49 	4
+Soil	44.18 	86.02 	5
+Seawater	44.13 	-58.17 	1
+Human	44.04 	-92.48 	1
+Human	44.03 	-92.47 	1
+Human	44.02 	-92.47 	2
+Human	44.02 	-92.46 	1
+Plant	43.99 	7.40 	4
+Wild animal	43.81 	-110.48 	2
+Seawater	43.57 	13.60 	1
+Seawater	43.53 	32.52 	1
+Sediment	43.50 	43.11 	3
+Surface water	43.38 	91.59 	2
+Sediment	43.18 	42.30 	2
+Sediment	43.17 	42.28 	1
+Sediment	43.16 	42.26 	1
+Sediment	43.15 	41.36 	1
+Sediment	43.14 	41.41 	2
+Sediment	43.12 	42.44 	1
+Insect	43.10 	141.21 	1
+Wild animal	43.07 	-89.40 	2
+Food	43.00 	-77.00 	1
+Seawater	42.76 	-65.48 	1
+Animal husbandry	42.73 	25.49 	8
+Sediment	42.73 	-70.86 	3
+Food	42.60 	-5.57 	6
+Animal husbandry	42.56 	42.56 	3
+Wild animal	42.54 	-100.61 	1
+Animal husbandry	42.46 	-76.50 	1
+Seawater	42.42 	-70.91 	3
+Plant	42.39 	-85.37 	4
+Sediment	42.30 	74.30 	2
+Aquatic organism	42.13 	140.00 	2
+Seawater	42.11 	-70.54 	3
+Food	42.01 	-93.27 	7
+Wild animal	42.00 	-42.00 	1
+Wild animal	41.88 	-100.45 	3
+Soil	41.77 	-111.81 	4
+Surface water	41.75 	-83.17 	1
+Surface water	41.72 	-83.12 	1
+Wild animal	41.68 	-70.20 	1
+Human	41.66 	91.55 	1
+Surface water	41.66 	-82.95 	1
+Sediment	41.49 	77.47 	2
+Surface water	41.48 	-82.74 	1
+Human	41.39 	87.34 	1
+Aquatic organism	41.35 	-71.67 	4
+Animal husbandry	41.35 	-72.41 	3
+Sediment	41.07 	-74.01 	5
+Surface water	41.00 	44.06 	3
+Plant	40.88 	108.85 	2
+Aquatic organism	40.86 	121.49 	4
+Food	40.85 	14.31 	6
+Insect	40.81 	-77.87 	3
+Seawater	40.80 	14.34 	1
+Aquatic organism	40.65 	-0.74 	3
+Wild animal	40.61 	81.33 	2
+Surface water	40.55 	-2.05 	2
+Animal husbandry	40.50 	-79.83 	5
+Soil	40.41 	-104.35 	2
+Plant	40.36 	114.56 	2
+Insect	40.33 	14.15 	4
+Insect	40.33 	-74.11 	1
+Insect	40.33 	-74.12 	1
+Insect	40.33 	-74.13 	2
+Soil	40.30 	-89.94 	5
+Animal husbandry	40.26 	-3.41 	3
+Plant	40.25 	-123.03 	3
+Human	40.11 	116.42 	2
+Animal husbandry	40.10 	116.73 	3
+Human	40.00 	-7.00 	2
+Wild animal	40.00 	120.00 	3
+Surface water	39.99 	-1.87 	3
+Human	39.90 	-116.23 	1
+Wild animal	39.90 	116.40 	2
+Human	39.87 	116.28 	1
+Surface water	39.73 	-1.10 	2
+Surface water	39.71 	-78.64 	1
+Surface water	39.67 	-0.91 	1
+Surface water	39.65 	-76.74 	2
+Insect	39.64 	-79.95 	1
+Surface water	39.62 	-77.46 	2
+Soil	39.60 	-75.80 	2
+Insect	39.55 	116.23 	3
+Food	39.54 	116.23 	2
+Plant	39.39 	-77.89 	2
+Human	39.29 	76.61 	1
+Human	39.29 	-76.61 	1
+Sediment	39.28 	72.53 	1
+Surface water	39.14 	-0.65 	3
+Animal husbandry	39.08 	117.12 	1
+Aquatic organism	39.04 	-76.64 	3
+Human	39.00 	9.00 	4
+Animal husbandry	39.00 	117.00 	1
+Wild animal	39.00 	-77.11 	3
+Wild animal	38.93 	-77.05 	1
+Aquatic organism	38.80 	-75.20 	2
+Food	38.54 	-121.75 	4
+Human	38.54 	-121.74 	2
+Seawater	38.50 	119.00 	3
+Food	38.47 	106.27 	3
+Human	38.46 	27.23 	5
+Seawater	38.23 	128.68 	2
+Seawater	38.21 	128.69 	1
+Aquatic organism	38.12 	-0.63 	3
+Aquatic organism	38.06 	118.63 	3
+Surface water	37.95 	127.82 	2
+Food	37.89 	127.74 	3
+Human	37.87 	112.55 	1
+Wild animal	37.84 	-122.53 	1
+Food	37.78 	-122.42 	1
+Wild animal	37.78 	-90.18 	1
+Human	37.76 	-122.40 	1
+Plant	37.66 	-119.62 	2
+Human	37.58 	23.43 	3
+Human	37.53 	127.11 	1
+Human	37.53 	127.11 	1
+Aquatic organism	37.52 	121.39 	3
+Food	37.46 	-3.47 	6
+Wild animal	37.14 	102.47 	3
+Animal husbandry	37.00 	-7.00 	1
+Plant	36.81 	10.16 	2
+Soil	36.69 	109.37 	2
+Animal husbandry	36.67 	116.86 	1
+Seawater	36.51 	-70.49 	2
+Animal husbandry	36.47 	103.04 	5
+Insect	36.06 	140.13 	1
+Sediment	35.94 	-84.34 	3
+Plant	35.91 	79.05 	2
+Insect	35.69 	139.69 	4
+Plant	35.67 	-78.50 	1
+Plant	35.67 	78.51 	1
+Human	35.49 	33.04 	2
+Wild animal	35.47 	-97.52 	1
+Seawater	35.36 	33.30 	1
+Seawater	35.35 	25.29 	1
+Human	35.15 	90.04 	2
+Wild animal	35.01 	102.91 	3
+Animal husbandry	34.98 	-101.92 	3
+Soil	34.92 	111.10 	2
+Seawater	34.86 	128.42 	2
+Human	34.82 	-118.10 	1
+Insect	34.29 	135.26 	1
+Soil	34.25 	112.42 	1
+Surface water	34.19 	49.84 	2
+Plant	34.16 	108.40 	2
+Plant	34.07 	118.44 	2
+Plant	34.06 	-118.44 	2
+Plant	34.01 	118.47 	1
+Aquatic organism	33.93 	-118.83 	3
+Seawater	33.55 	-118.40 	2
+Human	33.48 	-112.04 	2
+Plant	33.44 	-117.42 	4
+Sediment	33.28 	126.23 	1
+Sediment	33.15 	119.38 	2
+Plant	33.06 	35.43 	2
+Soil	33.00 	126.00 	3
+Aquatic organism	32.99 	118.67 	5
+Aquatic organism	32.96 	118.52 	1
+Wild animal	32.83 	-117.27 	3
+Insect	32.79 	118.59 	1
+Aquatic organism	32.75 	118.56 	1
+Insect	32.71 	35.17 	1
+Sediment	32.66 	-117.24 	4
+Aquatic organism	32.61 	34.93 	3
+Surface water	32.59 	-85.49 	6
+Surface water	32.49 	35.35 	1
+Surface water	32.49 	35.35 	2
+Plant	32.39 	-85.69 	4
+Insect	32.25 	-110.91 	1
+Aquatic organism	32.22 	34.18 	3
+Animal husbandry	32.20 	118.50 	1
+Aquatic organism	32.19 	118.86 	1
+Aquatic organism	32.18 	118.85 	1
+Plant	32.13 	81.97 	3
+Plant	32.13 	-81.97 	4
+Insect	32.06 	118.66 	3
+Human	32.05 	34.84 	3
+Animal husbandry	31.99 	34.11 	1
+Animal husbandry	31.98 	34.10 	1
+Animal husbandry	31.97 	34.90 	1
+Animal husbandry	31.96 	34.80 	1
+Human	31.74 	121.17 	3
+Soil	31.47 	104.68 	3
+Soil	31.43 	118.47 	2
+Wild animal	31.37 	110.26 	2
+Aquatic organism	31.29 	76.24 	2
+Surface water	31.23 	130.57 	3
+Food	31.23 	121.47 	1
+Human	31.23 	121.47 	1
+Wild animal	31.20 	96.56 	2
+Plant	31.20 	34.40 	3
+Aquatic organism	30.90 	75.80 	1
+Food	30.87 	103.80 	3
+Soil	30.79 	34.77 	4
+Animal husbandry	30.67 	104.16 	4
+Soil	30.57 	32.23 	2
+Sediment	30.54 	114.61 	3
+Aquatic organism	30.46 	114.87 	1
+Wild animal	30.44 	-84.30 	3
+Insect	30.40 	-91.10 	3
+Insect	30.31 	-97.89 	4
+Animal husbandry	30.30 	-103.00 	2
+Animal husbandry	30.30 	-120.20 	2
+Insect	30.29 	120.08 	3
+Aquatic organism	30.25 	-88.11 	4
+Insect	30.15 	120.10 	3
+Food	30.00 	100.00 	1
+Seawater	30.00 	126.25 	2
+Seawater	29.97 	-23.69 	1
+Wild animal	29.84 	106.36 	2
+Human	29.76 	95.37 	1
+Insect	28.96 	103.98 	3
+Plant	28.64 	121.17 	4
+Plant	28.64 	77.11 	2
+Soil	28.54 	90.10 	4
+Sediment	28.38 	84.20 	3
+Plant	28.36 	77.12 	1
+Food	28.30 	116.50 	4
+Soil	28.25 	16.92 	1
+Seawater	28.19 	-89.80 	2
+Aquatic organism	28.12 	89.14 	3
+Sediment	28.11 	85.41 	1
+Human	28.00 	120.00 	1
+Soil	28.00 	116.00 	3
+Surface water	28.00 	86.82 	3
+Animal husbandry	27.84 	99.90 	1
+Animal husbandry	27.83 	99.80 	1
+Animal husbandry	27.82 	99.70 	1
+Aquatic organism	27.73 	-90.88 	2
+Soil	27.63 	109.40 	3
+Aquatic organism	27.63 	-97.21 	3
+Insect	27.58 	112.49 	2
+Sediment	27.54 	86.48 	2
+Soil	27.36 	88.08 	2
+Insect	27.30 	-85.40 	4
+Seawater	27.29 	-83.16 	2
+Plant	27.20 	94.34 	1
+Sediment	27.01 	-111.41 	3
+Plant	26.83 	100.06 	1
+Surface water	26.72 	-81.69 	3
+Aquatic organism	26.71 	-82.16 	3
+Insect	26.45 	128.15 	1
+Surface water	26.38 	105.81 	2
+Insect	26.08 	119.28 	2
+Insect	26.06 	80.23 	2
+Seawater	25.46 	36.60 	1
+Sediment	25.44 	98.46 	1
+Insect	25.02 	102.42 	3
+Sediment	24.95 	98.44 	1
+Sediment	24.91 	98.39 	1
+Sediment	24.90 	100.32 	3
+Insect	24.83 	102.85 	4
+Surface water	24.82 	118.16 	3
+Plant	24.70 	117.10 	2
+Insect	24.63 	121.61 	1
+Food	24.27 	118.06 	6
+Wild animal	24.14 	-110.31 	1
+Seawater	24.06 	-74.54 	3
+Plant	24.05 	103.98 	3
+Sediment	23.95 	-108.86 	2
+Soil	23.83 	108.79 	2
+Human	23.80 	113.30 	1
+Aquatic organism	23.76 	117.50 	3
+Animal husbandry	23.70 	113.04 	2
+Plant	23.64 	104.60 	1
+Plant	23.33 	105.85 	3
+Wild animal	23.24 	77.36 	6
+Aquatic organism	23.13 	113.26 	2
+Insect	23.07 	113.15 	3
+Human	23.06 	113.81 	5
+Human	23.05 	113.38 	2
+Human	23.00 	90.00 	2
+Animal husbandry	22.55 	114.09 	1
+Human	22.54 	114.06 	4
+Sediment	22.53 	114.00 	3
+Sediment	22.43 	113.64 	1
+Aquatic organism	22.23 	113.13 	1
+Wild animal	22.11 	100.50 	2
+Sediment	22.01 	119.28 	2
+Aquatic organism	22.00 	113.00 	3
+Plant	21.77 	-100.16 	4
+Sediment	21.71 	88.30 	2
+Sediment	21.45 	87.04 	1
+Aquatic organism	21.28 	-157.73 	3
+Seawater	21.11 	-78.72 	2
+Sediment	21.08 	-90.20 	3
+Soil	21.02 	-89.64 	1
+Sediment	21.01 	109.00 	4
+Seawater	21.00 	68.00 	1
+Soil	20.77 	86.87 	3
+Seawater	20.50 	-106.50 	1
+Aquatic organism	20.45 	85.74 	1
+Surface water	20.41 	103.29 	3
+Aquatic organism	20.34 	117.30 	4
+Sediment	20.22 	109.92 	1
+Sediment	20.22 	109.92 	1
+Sediment	20.22 	109.92 	1
+Seawater	20.00 	-52.63 	1
+Aquatic organism	19.99 	106.10 	3
+Seawater	19.88 	116.10 	3
+Seawater	19.85 	-115.87 	1
+Seawater	19.61 	38.73 	2
+Insect	19.60 	-100.23 	2
+Animal husbandry	19.39 	78.49 	6
+Wild animal	19.32 	-99.18 	1
+Sediment	19.15 	108.67 	3
+Plant	19.09 	-98.88 	2
+Insect	18.61 	-99.18 	4
+Surface water	18.33 	-66.24 	3
+Seawater	18.04 	-133.26 	1
+Seawater	18.00 	-102.00 	1
+Seawater	17.59 	39.47 	1
+Human	17.57 	3.99 	3
+Seawater	17.21 	-110.71 	1
+Sediment	16.73 	110.41 	4
+Seawater	16.50 	-107.20 	1
+Seawater	16.28 	-61.56 	2
+Seawater	16.00 	-105.00 	2
+Seawater	16.00 	-110.00 	1
+Seawater	15.83 	-105.00 	1
+Surface water	15.32 	75.71 	1
+Seawater	15.00 	68.00 	2
+Seawater	14.53 	-118.77 	1
+Surface water	14.40 	121.05 	1
+Aquatic organism	13.51 	-44.96 	3
+Animal husbandry	12.58 	77.38 	5
+Seawater	12.09 	-68.90 	3
+Human	12.00 	-1.00 	2
+Seawater	12.00 	-108.06 	1
+Soil	11.83 	125.28 	3
+Wild animal	11.59 	-61.42 	2
+Sediment	11.33 	-142.20 	4
+Seawater	10.62 	-65.17 	2
+Insect	10.36 	-84.51 	1
+Seawater	10.09 	-99.25 	1
+Seawater	10.00 	-145.00 	2
+Soil	9.45 	76.78 	2
+Sediment	9.29 	79.22 	1
+Aquatic organism	9.27 	79.13 	1
+Seawater	9.22 	-165.53 	1
+Sediment	9.19 	-83.28 	2
+Wild animal	9.12 	-79.70 	4
+Insect	9.12 	-79.70 	2
+Seawater	8.47 	-83.21 	1
+Seawater	7.90 	"	54.19"	2
+Soil	7.47 	3.47 	3
+Plant	7.45 	5.30 	1
+Seawater	7.33 	-26.00 	1
+Seawater	6.37 	-51.40 	1
+Plant	5.85 	-11.15 	1
+Insect	5.35 	-53.25 	1
+Wild animal	5.34 	-100.28 	2
+Aquatic organism	5.34 	100.28 	3
+Plant	5.16 	7.34 	1
+Insect	5.06 	53.05 	3
+Soil	4.98 	7.06 	1
+Plant	4.34 	10.33 	1
+Soil	3.00 	37.00 	2
+Wild animal	1.71 	52.38 	1
+Plant	1.42 	103.70 	4
+Sediment	1.35 	103.82 	3
+Insect	1.34 	103.68 	1
+Human	1.32 	103.85 	2
+Human	1.17 	103.50 	2
+Sediment	0.38 	29.88 	2
+Surface water	0.37 	-78.10 	1
+Insect	0.29 	34.86 	2
+Plant	0.27 	10.23 	1
+Seawater	0.27 	-47.15 	1
+Sediment	0.22 	29.52 	3
+Seawater	-0.23 	-90.87 	1
+Seawater	-0.26 	-91.43 	1
+Sediment	-0.40 	-78.25 	3
+Seawater	-0.69 	-89.23 	1
+Sediment	-1.26 	-78.48 	2
+Wild animal	-1.29 	36.82 	3
+Surface water	-1.63 	54.98 	3
+Plant	-1.69 	10.87 	1
+Soil	-1.81 	103.26 	5
+Wild animal	-2.72 	37.10 	4
+Food	-3.00 	-78.00 	1
+Seawater	-3.03 	-27.33 	2
+Insect	-3.10 	-59.99 	3
+Surface water	-3.22 	36.91 	2
+Soil	-3.30 	-54.96 	3
+Soil	-3.97 	-73.43 	2
+Soil	-4.55 	-42.27 	1
+Insect	-4.79 	11.80 	2
+Seawater	-5.74 	170.77 	2
+Surface water	-7.48 	30.45 	4
+Aquatic organism	-9.55 	-13.21 	3
+Surface water	-11.83 	-36.75 	1
+Surface water	-12.46 	-31.30 	1
+Insect	-12.50 	-70.10 	1
+Wild animal	-15.10 	26.00 	3
+Aquatic organism	-15.16 	-173.57 	1
+Human	-15.39 	28.32 	2
+Seawater	-15.83 	-33.41 	1
+Soil	-16.48 	-56.75 	1
+Soil	-16.48 	-56.75 	1
+Sediment	-17.48 	-149.82 	4
+Human	-17.77 	177.97 	1
+Plant	-19.28 	-43.59 	2
+Animal husbandry	-19.66 	146.84 	1
+Animal husbandry	-19.66 	146.84 	1
+Animal husbandry	-19.66 	146.84 	1
+Plant	-19.73 	147.18 	3
+Soil	-19.85 	-68.91 	2
+Surface water	-19.92 	-43.95 	3
+Seawater	-19.93 	146.52 	3
+Aquatic organism	-20.05 	-176.13 	1
+Sediment	-20.54 	-175.40 	3
+Aquatic organism	-20.76 	-176.19 	2
+Insect	-21.16 	-47.86 	4
+Insect	-21.42 	-45.94 	4
+Aquatic organism	-21.99 	-176.57 	2
+Animal husbandry	-22.17 	-47.70 	5
+Soil	-22.26 	-69.72 	3
+Surface water	-22.68 	-46.93 	2
+Insect	-22.80 	-47.05 	1
+Insect	-22.82 	-47.06 	1
+Insect	-22.84 	-47.10 	5
+Seawater	-22.97 	-36.95 	1
+Sediment	-22.97 	30.49 	4
+Surface water	-23.14 	-68.25 	3
+Animal husbandry	-23.21 	150.39 	6
+Animal husbandry	-23.35 	-52.07 	5
+Sediment	-24.37 	68.48 	3
+Animal husbandry	-25.00 	31.59 	5
+Aquatic organism	-25.03 	-47.97 	1
+Human	-25.27 	133.78 	3
+Soil	-25.35 	27.50 	4
+Seawater	-25.49 	179.52 	1
+Plant	-25.78 	25.63 	2
+Soil	-25.92 	31.93 	2
+Plant	-25.99 	26.52 	2
+Human	-26.71 	27.10 	2
+Seawater	-26.91 	-21.43 	1
+Soil	-27.31 	26.73 	4
+Animal husbandry	-27.56 	152.28 	3
+Animal husbandry	-27.88 	151.27 	3
+Seawater	-27.98 	63.25 	2
+Seawater	-28.41 	179.14 	2
+Seawater	-28.62 	-11.80 	1
+Soil	-29.16 	116.79 	1
+Soil	-29.16 	116.79 	1
+Soil	-29.16 	116.79 	1
+Surface water	-29.26 	-177.92 	3
+Seawater	-29.65 	92.99 	1
+Seawater	-29.81 	82.62 	1
+Seawater	-30.33 	103.31 	1
+Human	-32.00 	116.00 	5
+Seawater	-32.50 	56.80 	1
+Seawater	-32.51 	-158.03 	2
+Seawater	-32.81 	12.77 	1
+Human	-33.45 	-70.67 	3
+Human	-33.46 	-70.67 	1
+Human	-33.47 	-70.67 	1
+Insect	-33.49 	-70.52 	1
+Seawater	-33.55 	39.89 	1
+Insect	-33.82 	-70.19 	1
+Plant	-33.84 	151.06 	2
+Seawater	-33.91 	151.27 	2
+Seawater	-33.99 	151.23 	2
+Seawater	-33.99 	151.23 	2
+Seawater	-34.12 	151.22 	3
+Animal husbandry	-34.13 	150.74 	4
+Plant	-34.18 	142.15 	3
+Insect	-34.96 	-70.44 	1
+Wild animal	-35.83 	136.45 	4
+Surface water	-36.36 	-48.17 	1
+Soil	-37.02 	174.54 	3
+Sediment	-37.58 	50.63 	4
+Soil	-37.93 	145.31 	3
+Seawater	-38.05 	144.95 	1
+Seawater	-38.06 	145.05 	1
+Seawater	-38.06 	145.11 	1
+Soil	-38.56 	176.32 	5
+Seawater	-39.23 	135.19 	1
+Animal husbandry	-40.35 	175.60 	2
+Wild animal	-42.27 	-72.45 	3
+Wild animal	-42.27 	-72.44 	2
+Soil	-42.55 	146.85 	3
+Sediment	-42.55 	171.30 	3
+Sediment	-42.59 	171.23 	1
+Sediment	-44.27 	168.37 	1
+Seawater	-45.79 	170.91 	1
+Seawater	-45.81 	171.17 	1
+Soil	-46.54 	168.43 	1
+Surface water	-50.96 	-19.76 	1
+Soil	-54.74 	-67.88 	2
+Surface water	-60.80 	-3.32 	1
+Wild animal	-62.22 	-58.79 	3
+Sediment	-62.22 	-58.95 	2
+Seawater	-62.23 	-58.93 	2
+Wild animal	-64.22 	-56.62 	1
+Sediment	-67.60 	-67.21 	1
+Wild animal	-68.46 	-78.17 	1
+Surface water	-68.46 	78.19 	1
+Surface water	-68.46 	78.19 	2
+Surface water	-71.34 	13.46 	3
+Seawater	-77.61 	163.16 	2
+Sediment	-80.45 	-29.48 	1
+Sediment	-82.45 	-51.35 	1
