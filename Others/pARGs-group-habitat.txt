@@ -1,0 +1,1285 @@
+Contig	habitat	group1	group2
+ERR1135423	Fram animals	human-associated	human-associated
+ERR2200469	Fram animals	human-associated	human-associated
+ERR2200470	Fram animals	human-associated	human-associated
+ERR2200472	Fram animals	human-associated	human-associated
+ERR2200557	Fram animals	human-associated	human-associated
+ERR2200588	Fram animals	human-associated	human-associated
+ERR2200589	Fram animals	human-associated	human-associated
+ERR2200592	Fram animals	human-associated	human-associated
+ERR2200594	Fram animals	human-associated	human-associated
+ERR2200596	Fram animals	human-associated	human-associated
+ERR2200598	Fram animals	human-associated	human-associated
+ERR2241907	Fram animals	human-associated	human-associated
+ERR2241908	Fram animals	human-associated	human-associated
+ERR2241909	Fram animals	human-associated	human-associated
+ERR2241919	Fram animals	human-associated	human-associated
+ERR2241923	Fram animals	human-associated	human-associated
+ERR2241925	Fram animals	human-associated	human-associated
+ERR2241929	Fram animals	human-associated	human-associated
+ERR2241934	Fram animals	human-associated	human-associated
+ERR2889252	Fram animals	human-associated	human-associated
+ERR2889255	Fram animals	human-associated	human-associated
+ERR2889258	Fram animals	human-associated	human-associated
+ERR2889267	Fram animals	human-associated	human-associated
+ERR2889271	Fram animals	human-associated	human-associated
+ERR4083931	Fram animals	human-associated	human-associated
+ERR4083932	Fram animals	human-associated	human-associated
+ERR4083933	Fram animals	human-associated	human-associated
+ERR4083983	Fram animals	human-associated	human-associated
+ERR4083984	Fram animals	human-associated	human-associated
+SRR10209665	Fram animals	human-associated	human-associated
+SRR10209672	Fram animals	human-associated	human-associated
+SRR10209687	Fram animals	human-associated	human-associated
+SRR10393135	Fram animals	human-associated	human-associated
+SRR10765507	Fram animals	human-associated	human-associated
+SRR10765519	Fram animals	human-associated	human-associated
+SRR10912537	Fram animals	human-associated	human-associated
+SRR11183666	Fram animals	human-associated	human-associated
+SRR11185226	Fram animals	human-associated	human-associated
+SRR11185229	Fram animals	human-associated	human-associated
+SRR11185234	Fram animals	human-associated	human-associated
+SRR11489747	Fram animals	human-associated	human-associated
+SRR11489756	Fram animals	human-associated	human-associated
+SRR11569199	Fram animals	human-associated	human-associated
+SRR11569210	Fram animals	human-associated	human-associated
+SRR12177542	Fram animals	human-associated	human-associated
+SRR12177544	Fram animals	human-associated	human-associated
+SRR12177546	Fram animals	human-associated	human-associated
+SRR12177548	Fram animals	human-associated	human-associated
+SRR12177549	Fram animals	human-associated	human-associated
+SRR13783084	Fram animals	human-associated	human-associated
+SRR13783088	Fram animals	human-associated	human-associated
+SRR14556795	Fram animals	human-associated	human-associated
+SRR14556796	Fram animals	human-associated	human-associated
+SRR14556797	Fram animals	human-associated	human-associated
+SRR14556798	Fram animals	human-associated	human-associated
+SRR14556799	Fram animals	human-associated	human-associated
+SRR14556800	Fram animals	human-associated	human-associated
+SRR16020806	Fram animals	human-associated	human-associated
+SRR16020810	Fram animals	human-associated	human-associated
+SRR16020823	Fram animals	human-associated	human-associated
+SRR17284435	Fram animals	human-associated	human-associated
+SRR17284438	Fram animals	human-associated	human-associated
+SRR17284442	Fram animals	human-associated	human-associated
+SRR17284448	Fram animals	human-associated	human-associated
+SRR17284456	Fram animals	human-associated	human-associated
+SRR17889444	Fram animals	human-associated	human-associated
+SRR17889447	Fram animals	human-associated	human-associated
+SRR17889464	Fram animals	human-associated	human-associated
+SRR18274463	Fram animals	human-associated	human-associated
+SRR18274464	Fram animals	human-associated	human-associated
+SRR18274470	Fram animals	human-associated	human-associated
+SRR18274475	Fram animals	human-associated	human-associated
+SRR18274477	Fram animals	human-associated	human-associated
+SRR18576642	Fram animals	human-associated	human-associated
+SRR18576648	Fram animals	human-associated	human-associated
+SRR18576654	Fram animals	human-associated	human-associated
+SRR18751091	Fram animals	human-associated	human-associated
+SRR19070415	Fram animals	human-associated	human-associated
+SRR19070461	Fram animals	human-associated	human-associated
+SRR19090065	Fram animals	human-associated	human-associated
+SRR20642301	Fram animals	human-associated	human-associated
+SRR20642305	Fram animals	human-associated	human-associated
+SRR21527943	Fram animals	human-associated	human-associated
+SRR21527944	Fram animals	human-associated	human-associated
+SRR21527946	Fram animals	human-associated	human-associated
+SRR21527947	Fram animals	human-associated	human-associated
+SRR22213135	Fram animals	human-associated	human-associated
+SRR22213136	Fram animals	human-associated	human-associated
+SRR22213149	Fram animals	human-associated	human-associated
+SRR22213161	Fram animals	human-associated	human-associated
+SRR22213180	Fram animals	human-associated	human-associated
+SRR22213600	Fram animals	human-associated	human-associated
+SRR22213601	Fram animals	human-associated	human-associated
+SRR22213607	Fram animals	human-associated	human-associated
+SRR22308414	Fram animals	human-associated	human-associated
+SRR22308415	Fram animals	human-associated	human-associated
+SRR22328598	Fram animals	human-associated	human-associated
+SRR22345190	Fram animals	human-associated	human-associated
+SRR22348038	Fram animals	human-associated	human-associated
+SRR23387573	Fram animals	human-associated	human-associated
+SRR23387577	Fram animals	human-associated	human-associated
+SRR23387582	Fram animals	human-associated	human-associated
+SRR23387585	Fram animals	human-associated	human-associated
+SRR23559860	Fram animals	human-associated	human-associated
+SRR23559864	Fram animals	human-associated	human-associated
+SRR23559871	Fram animals	human-associated	human-associated
+SRR23946412	Fram animals	human-associated	human-associated
+SRR23946416	Fram animals	human-associated	human-associated
+SRR23946422	Fram animals	human-associated	human-associated
+SRR24140655	Fram animals	human-associated	human-associated
+SRR5198696	Fram animals	human-associated	human-associated
+SRR5198701	Fram animals	human-associated	human-associated
+SRR5198713	Fram animals	human-associated	human-associated
+SRR5198719	Fram animals	human-associated	human-associated
+SRR5198722	Fram animals	human-associated	human-associated
+SRR5198725	Fram animals	human-associated	human-associated
+SRR5241533	Fram animals	human-associated	human-associated
+SRR5241541	Fram animals	human-associated	human-associated
+SRR5241545	Fram animals	human-associated	human-associated
+SRR5976180	Fram animals	human-associated	human-associated
+SRR6512889	Fram animals	human-associated	human-associated
+SRR6512893	Fram animals	human-associated	human-associated
+SRR6512899	Fram animals	human-associated	human-associated
+SRR6958876	Fram animals	human-associated	human-associated
+SRR6958881	Fram animals	human-associated	human-associated
+SRR6958887	Fram animals	human-associated	human-associated
+SRR8879110	Fram animals	human-associated	human-associated
+SRR8879116	Fram animals	human-associated	human-associated
+SRR8879122	Fram animals	human-associated	human-associated
+SRR8879126	Fram animals	human-associated	human-associated
+SRR9008934	Fram animals	human-associated	human-associated
+SRR9008937	Fram animals	human-associated	human-associated
+SRR9030900	Fram animals	human-associated	human-associated
+SRR9030903	Fram animals	human-associated	human-associated
+SRR9030910	Fram animals	human-associated	human-associated
+SRR9037494	Fram animals	human-associated	human-associated
+SRR9037495	Fram animals	human-associated	human-associated
+SRR9037496	Fram animals	human-associated	human-associated
+SRR9037497	Fram animals	human-associated	human-associated
+DRR049542	Aquatic organism	non.human	non.human
+ERR1111514	Aquatic organism	non.human	non.human
+ERR1111515	Aquatic organism	non.human	non.human
+ERR1698991	Aquatic organism	non.human	non.human
+ERR1698993	Aquatic organism	non.human	non.human
+ERR1868842	Aquatic organism	non.human	non.human
+ERR1868845	Aquatic organism	non.human	non.human
+ERR1868852	Aquatic organism	non.human	non.human
+ERR1868858	Aquatic organism	non.human	non.human
+ERR1868861	Aquatic organism	non.human	non.human
+ERR2094165	Aquatic organism	non.human	non.human
+ERR2094172	Aquatic organism	non.human	non.human
+ERR2094175	Aquatic organism	non.human	non.human
+ERR2193917	Aquatic organism	non.human	non.human
+ERR2195675	Aquatic organism	non.human	non.human
+ERR3047201	Aquatic organism	non.human	non.human
+ERR3047202	Aquatic organism	non.human	non.human
+ERR3342487	Aquatic organism	non.human	non.human
+ERR3342490	Aquatic organism	non.human	non.human
+ERR3342495	Aquatic organism	non.human	non.human
+ERR3342496	Aquatic organism	non.human	non.human
+ERR3342497	Aquatic organism	non.human	non.human
+ERR3342498	Aquatic organism	non.human	non.human
+SRR12009694	Aquatic organism	non.human	non.human
+SRR12009695	Aquatic organism	non.human	non.human
+SRR12009696	Aquatic organism	non.human	non.human
+SRR12337184	Aquatic organism	non.human	non.human
+SRR12337186	Aquatic organism	non.human	non.human
+SRR12337189	Aquatic organism	non.human	non.human
+SRR12349255	Aquatic organism	non.human	non.human
+SRR12349256	Aquatic organism	non.human	non.human
+SRR12349258	Aquatic organism	non.human	non.human
+SRR12349260	Aquatic organism	non.human	non.human
+SRR12548983	Aquatic organism	non.human	non.human
+SRR12731286	Aquatic organism	non.human	non.human
+SRR13566417	Aquatic organism	non.human	non.human
+SRR13566419	Aquatic organism	non.human	non.human
+SRR13566424	Aquatic organism	non.human	non.human
+SRR13566428	Aquatic organism	non.human	non.human
+SRR13566432	Aquatic organism	non.human	non.human
+SRR14083534	Aquatic organism	non.human	non.human
+SRR14556198	Aquatic organism	non.human	non.human
+SRR14556200	Aquatic organism	non.human	non.human
+SRR14556205	Aquatic organism	non.human	non.human
+SRR14556227	Aquatic organism	non.human	non.human
+SRR14878350	Aquatic organism	non.human	non.human
+SRR14878352	Aquatic organism	non.human	non.human
+SRR14878364	Aquatic organism	non.human	non.human
+SRR14878384	Aquatic organism	non.human	non.human
+SRR15291756	Aquatic organism	non.human	non.human
+SRR15291760	Aquatic organism	non.human	non.human
+SRR15291762	Aquatic organism	non.human	non.human
+SRR1578068	Aquatic organism	non.human	non.human
+SRR1586370	Aquatic organism	non.human	non.human
+SRR1586416	Aquatic organism	non.human	non.human
+SRR16282456	Aquatic organism	non.human	non.human
+SRR16282457	Aquatic organism	non.human	non.human
+SRR16282465	Aquatic organism	non.human	non.human
+SRR17267537	Aquatic organism	non.human	non.human
+SRR17267542	Aquatic organism	non.human	non.human
+SRR17267546	Aquatic organism	non.human	non.human
+SRR21393943	Aquatic organism	non.human	non.human
+SRR21393944	Aquatic organism	non.human	non.human
+SRR21393945	Aquatic organism	non.human	non.human
+SRR21393947	Aquatic organism	non.human	non.human
+SRR21393949	Aquatic organism	non.human	non.human
+SRR22462775	Aquatic organism	non.human	non.human
+SRR23320465	Aquatic organism	non.human	non.human
+SRR23320467	Aquatic organism	non.human	non.human
+SRR23320468	Aquatic organism	non.human	non.human
+SRR24315697	Aquatic organism	non.human	non.human
+SRR24315700	Aquatic organism	non.human	non.human
+SRR24315704	Aquatic organism	non.human	non.human
+SRR24315707	Aquatic organism	non.human	non.human
+SRR3036329	Aquatic organism	non.human	non.human
+SRR5439158	Aquatic organism	non.human	non.human
+SRR5439169	Aquatic organism	non.human	non.human
+SRR5439185	Aquatic organism	non.human	non.human
+SRR5439186	Aquatic organism	non.human	non.human
+SRR5873457	Aquatic organism	non.human	non.human
+SRR6058006	Aquatic organism	non.human	non.human
+SRR6058008	Aquatic organism	non.human	non.human
+SRR6058014	Aquatic organism	non.human	non.human
+SRR6058016	Aquatic organism	non.human	non.human
+SRR7716262	Aquatic organism	non.human	non.human
+SRR7764474	Aquatic organism	non.human	non.human
+SRR7764476	Aquatic organism	non.human	non.human
+SRR7764479	Aquatic organism	non.human	non.human
+SRR8127968	Aquatic organism	non.human	non.human
+SRR8127969	Aquatic organism	non.human	non.human
+SRR8246563	Aquatic organism	non.human	non.human
+SRR8426922	Aquatic organism	non.human	non.human
+SRR8426928	Aquatic organism	non.human	non.human
+SRR8655138	Aquatic organism	non.human	non.human
+SRR9031335	Aquatic organism	non.human	non.human
+SRR9330010	Aquatic organism	non.human	non.human
+13566_5#1	Human	human-associated	human-associated
+13566_5#2	Human	human-associated	human-associated
+ERR1769192	Human	human-associated	human-associated
+ERR1769198	Human	human-associated	human-associated
+ERR2641806	Human	human-associated	human-associated
+ERR3502012	Human	human-associated	human-associated
+ERR3502016	Human	human-associated	human-associated
+ERR3502025	Human	human-associated	human-associated
+ERR3502029	Human	human-associated	human-associated
+ERR3522034	Human	human-associated	human-associated
+ERR4373938	Human	human-associated	human-associated
+ERR4373953	Human	human-associated	human-associated
+ERR4373954	Human	human-associated	human-associated
+ERR4626666	Human	human-associated	human-associated
+ERR6748490	Human	human-associated	human-associated
+ERR6748493	Human	human-associated	human-associated
+SRR10279191	Human	human-associated	human-associated
+SRR10359430	Human	human-associated	human-associated
+SRR11047630	Human	human-associated	human-associated
+SRR11047636	Human	human-associated	human-associated
+SRR11047644	Human	human-associated	human-associated
+SRR11207282	Human	human-associated	human-associated
+SRR11207283	Human	human-associated	human-associated
+SRR11851394	Human	human-associated	human-associated
+SRR12405240	Human	human-associated	human-associated
+SRR12660595	Human	human-associated	human-associated
+SRR12660598	Human	human-associated	human-associated
+SRR12665164	Human	human-associated	human-associated
+SRR12665168	Human	human-associated	human-associated
+SRR13061234	Human	human-associated	human-associated
+SRR13061238	Human	human-associated	human-associated
+SRR13061505	Human	human-associated	human-associated
+SRR13061517	Human	human-associated	human-associated
+SRR13061575	Human	human-associated	human-associated
+SRR13061588	Human	human-associated	human-associated
+SRR13068815	Human	human-associated	human-associated
+SRR13068818	Human	human-associated	human-associated
+SRR13068826	Human	human-associated	human-associated
+SRR13090265	Human	human-associated	human-associated
+SRR13131994	Human	human-associated	human-associated
+SRR13320432	Human	human-associated	human-associated
+SRR13320433	Human	human-associated	human-associated
+SRR13320434	Human	human-associated	human-associated
+SRR13320436	Human	human-associated	human-associated
+SRR13320441	Human	human-associated	human-associated
+SRR14888485	Human	human-associated	human-associated
+SRR14888488	Human	human-associated	human-associated
+SRR14888489	Human	human-associated	human-associated
+SRR15508273	Human	human-associated	human-associated
+SRR15508274	Human	human-associated	human-associated
+SRR15674878	Human	human-associated	human-associated
+SRR15835060	Human	human-associated	human-associated
+SRR15835103	Human	human-associated	human-associated
+SRR15931062	Human	human-associated	human-associated
+SRR15931064	Human	human-associated	human-associated
+SRR15966643	Human	human-associated	human-associated
+SRR15966649	Human	human-associated	human-associated
+SRR15966653	Human	human-associated	human-associated
+SRR16554624	Human	human-associated	human-associated
+SRR16681855	Human	human-associated	human-associated
+SRR16681858	Human	human-associated	human-associated
+SRR16681862	Human	human-associated	human-associated
+SRR17284118	Human	human-associated	human-associated
+SRR17651250	Human	human-associated	human-associated
+SRR17651252	Human	human-associated	human-associated
+SRR17651281	Human	human-associated	human-associated
+SRR17893055	Human	human-associated	human-associated
+SRR17893060	Human	human-associated	human-associated
+SRR17893091	Human	human-associated	human-associated
+SRR18283319	Human	human-associated	human-associated
+SRR18765388	Human	human-associated	human-associated
+SRR18841882	Human	human-associated	human-associated
+SRR19362245	Human	human-associated	human-associated
+SRR19362256	Human	human-associated	human-associated
+SRR19362260	Human	human-associated	human-associated
+SRR19362262	Human	human-associated	human-associated
+SRR20881974	Human	human-associated	human-associated
+SRR20881978	Human	human-associated	human-associated
+SRR21474234	Human	human-associated	human-associated
+SRR21991763	Human	human-associated	human-associated
+SRR21991768	Human	human-associated	human-associated
+SRR21995931	Human	human-associated	human-associated
+SRR21995990	Human	human-associated	human-associated
+SRR22041694	Human	human-associated	human-associated
+SRR22041698	Human	human-associated	human-associated
+SRR22041704	Human	human-associated	human-associated
+SRR22246244	Human	human-associated	human-associated
+SRR23266622	Human	human-associated	human-associated
+SRR23345839	Human	human-associated	human-associated
+SRR23345844	Human	human-associated	human-associated
+SRR23345851	Human	human-associated	human-associated
+SRR23512154	Human	human-associated	human-associated
+SRR23512166	Human	human-associated	human-associated
+SRR23512172	Human	human-associated	human-associated
+SRR23512181	Human	human-associated	human-associated
+SRR23525251	Human	human-associated	human-associated
+SRR23525255	Human	human-associated	human-associated
+SRR23525264	Human	human-associated	human-associated
+SRR23717147	Human	human-associated	human-associated
+SRR23717153	Human	human-associated	human-associated
+SRR23717162	Human	human-associated	human-associated
+SRR23754801	Human	human-associated	human-associated
+SRR23754804	Human	human-associated	human-associated
+SRR23754807	Human	human-associated	human-associated
+SRR23754813	Human	human-associated	human-associated
+SRR23801859	Human	human-associated	human-associated
+SRR23801860	Human	human-associated	human-associated
+SRR24139309	Human	human-associated	human-associated
+SRR24139461	Human	human-associated	human-associated
+SRR24139559	Human	human-associated	human-associated
+SRR24139562	Human	human-associated	human-associated
+SRR24519239	Human	human-associated	human-associated
+SRR24519242	Human	human-associated	human-associated
+SRR24519248	Human	human-associated	human-associated
+SRR2673279	Human	human-associated	human-associated
+SRR2673280	Human	human-associated	human-associated
+SRR3116176	Human	human-associated	human-associated
+SRR3116181	Human	human-associated	human-associated
+SRR5188793	Human	human-associated	human-associated
+SRR5581856	Human	human-associated	human-associated
+SRR5892193	Human	human-associated	human-associated
+SRR5892209	Human	human-associated	human-associated
+SRR5892215	Human	human-associated	human-associated
+SRR5930710	Human	human-associated	human-associated
+SRR6920728	Human	human-associated	human-associated
+SRR6920731	Human	human-associated	human-associated
+SRR6920733	Human	human-associated	human-associated
+SRR6920734	Human	human-associated	human-associated
+SRR6920735	Human	human-associated	human-associated
+SRR7124583	Human	human-associated	human-associated
+SRR7280869	Human	human-associated	human-associated
+SRR7280913	Human	human-associated	human-associated
+SRR7280914	Human	human-associated	human-associated
+SRR7803155	Human	human-associated	human-associated
+SRR7803305	Human	human-associated	human-associated
+SRR8074908	Human	human-associated	human-associated
+SRR8074912	Human	human-associated	human-associated
+SRR8091022	Human	human-associated	human-associated
+SRR8524518	Human	human-associated	human-associated
+SRR8524521	Human	human-associated	human-associated
+ERR3132356	Insect	non.human	non.human
+ERR3760404	Insect	non.human	non.human
+SRR10512950	Insect	non.human	non.human
+SRR11192618	Insect	non.human	non.human
+SRR11192619	Insect	non.human	non.human
+SRR11192621	Insect	non.human	non.human
+SRR11267042	Insect	non.human	non.human
+SRR11267043	Insect	non.human	non.human
+SRR11267044	Insect	non.human	non.human
+SRR11267046	Insect	non.human	non.human
+SRR11267048	Insect	non.human	non.human
+SRR11267049	Insect	non.human	non.human
+SRR11267051	Insect	non.human	non.human
+SRR11267054	Insect	non.human	non.human
+SRR11267056	Insect	non.human	non.human
+SRR11267058	Insect	non.human	non.human
+SRR11267063	Insect	non.human	non.human
+SRR11267071	Insect	non.human	non.human
+SRR11665920	Insect	non.human	non.human
+SRR11671906	Insect	non.human	non.human
+SRR11671908	Insect	non.human	non.human
+SRR11671909	Insect	non.human	non.human
+SRR11671913	Insect	non.human	non.human
+SRR11816809	Insect	non.human	non.human
+SRR11816811	Insect	non.human	non.human
+SRR11869874	Insect	non.human	non.human
+SRR1292491	Insect	non.human	non.human
+SRR1292492	Insect	non.human	non.human
+SRR14022784	Insect	non.human	non.human
+SRR14022785	Insect	non.human	non.human
+SRR14690702	Insect	non.human	non.human
+SRR14690703	Insect	non.human	non.human
+SRR14690705	Insect	non.human	non.human
+SRR14690708	Insect	non.human	non.human
+SRR14739925	Insect	non.human	non.human
+SRR14739926	Insect	non.human	non.human
+SRR14739930	Insect	non.human	non.human
+SRR14739931	Insect	non.human	non.human
+SRR16203935	Insect	non.human	non.human
+SRR16203936	Insect	non.human	non.human
+SRR16203939	Insect	non.human	non.human
+SRR18708760	Insect	non.human	non.human
+SRR18708761	Insect	non.human	non.human
+SRR18708764	Insect	non.human	non.human
+SRR18708766	Insect	non.human	non.human
+SRR19171299	Insect	non.human	non.human
+SRR19171301	Insect	non.human	non.human
+SRR19171303	Insect	non.human	non.human
+SRR19171304	Insect	non.human	non.human
+SRR19352582	Insect	non.human	non.human
+SRR19756507	Insect	non.human	non.human
+SRR19756508	Insect	non.human	non.human
+SRR19756510	Insect	non.human	non.human
+SRR19756514	Insect	non.human	non.human
+SRR19981271	Insect	non.human	non.human
+SRR19981278	Insect	non.human	non.human
+SRR21047427	Insect	non.human	non.human
+SRR21047428	Insect	non.human	non.human
+SRR21669497	Insect	non.human	non.human
+SRR21686212	Insect	non.human	non.human
+SRR21686214	Insect	non.human	non.human
+SRR21686215	Insect	non.human	non.human
+SRR22536686	Insect	non.human	non.human
+SRR24296964	Insect	non.human	non.human
+SRR24296965	Insect	non.human	non.human
+SRR24296966	Insect	non.human	non.human
+SRR24296969	Insect	non.human	non.human
+SRR24358073	Insect	non.human	non.human
+SRR24358075	Insect	non.human	non.human
+SRR24362737	Insect	non.human	non.human
+SRR4051758	Insect	non.human	non.human
+SRR4051759	Insect	non.human	non.human
+SRR5237156	Insect	non.human	non.human
+SRR5940678	Insect	non.human	non.human
+SRR5940679	Insect	non.human	non.human
+SRR5940680	Insect	non.human	non.human
+SRR5940687	Insect	non.human	non.human
+SRR5940731	Insect	non.human	non.human
+SRR5940741	Insect	non.human	non.human
+SRR5940742	Insect	non.human	non.human
+SRR5940743	Insect	non.human	non.human
+SRR5940751	Insect	non.human	non.human
+SRR5940753	Insect	non.human	non.human
+SRR5940761	Insect	non.human	non.human
+SRR5940763	Insect	non.human	non.human
+SRR5940764	Insect	non.human	non.human
+SRR6206234	Insect	non.human	non.human
+SRR6206331	Insect	non.human	non.human
+SRR6206332	Insect	non.human	non.human
+SRR6219166	Insect	non.human	non.human
+SRR6219231	Insect	non.human	non.human
+SRR6220208	Insect	non.human	non.human
+SRR6256375	Insect	non.human	non.human
+SRR7014884	Insect	non.human	non.human
+SRR7014887	Insect	non.human	non.human
+SRR7986789	Insect	non.human	non.human
+SRR7986791	Insect	non.human	non.human
+SRR7986792	Insect	non.human	non.human
+SRR7986796	Insect	non.human	non.human
+SRR8334321	Insect	non.human	non.human
+ERR1103791	Plant	non.human	non.human
+ERR1103909	Plant	non.human	non.human
+ERR1103916	Plant	non.human	non.human
+ERR1103948	Plant	non.human	non.human
+ERR1103960	Plant	non.human	non.human
+ERR1104002	Plant	non.human	non.human
+ERR1104011	Plant	non.human	non.human
+ERR1104014	Plant	non.human	non.human
+ERR1104190	Plant	non.human	non.human
+ERR1104205	Plant	non.human	non.human
+ERR1104210	Plant	non.human	non.human
+SRR10127271	Plant	non.human	non.human
+SRR10145198	Plant	non.human	non.human
+SRR10527383	Plant	non.human	non.human
+SRR10527387	Plant	non.human	non.human
+SRR10527391	Plant	non.human	non.human
+SRR10527396	Plant	non.human	non.human
+SRR10585492	Plant	non.human	non.human
+SRR10585500	Plant	non.human	non.human
+SRR10585520	Plant	non.human	non.human
+SRR10585545	Plant	non.human	non.human
+SRR10763707	Plant	non.human	non.human
+SRR10848473	Plant	non.human	non.human
+SRR10848474	Plant	non.human	non.human
+SRR10861647	Plant	non.human	non.human
+SRR10861658	Plant	non.human	non.human
+SRR10916587	Plant	non.human	non.human
+SRR10916887	Plant	non.human	non.human
+SRR10916888	Plant	non.human	non.human
+SRR10916958	Plant	non.human	non.human
+SRR10917427	Plant	non.human	non.human
+SRR11131033	Plant	non.human	non.human
+SRR11839385	Plant	non.human	non.human
+SRR11839388	Plant	non.human	non.human
+SRR12131104	Plant	non.human	non.human
+SRR12131136	Plant	non.human	non.human
+SRR12131164	Plant	non.human	non.human
+SRR12131186	Plant	non.human	non.human
+SRR12366591	Plant	non.human	non.human
+SRR12366592	Plant	non.human	non.human
+SRR12366593	Plant	non.human	non.human
+SRR12366594	Plant	non.human	non.human
+SRR12366597	Plant	non.human	non.human
+SRR12366598	Plant	non.human	non.human
+SRR12403549	Plant	non.human	non.human
+SRR12403554	Plant	non.human	non.human
+SRR12617307	Plant	non.human	non.human
+SRR12889329	Plant	non.human	non.human
+SRR12889331	Plant	non.human	non.human
+SRR12889334	Plant	non.human	non.human
+SRR14784200	Plant	non.human	non.human
+SRR14784207	Plant	non.human	non.human
+SRR14784217	Plant	non.human	non.human
+SRR14784298	Plant	non.human	non.human
+SRR15413202	Plant	non.human	non.human
+SRR15413204	Plant	non.human	non.human
+SRR15413207	Plant	non.human	non.human
+SRR15413223	Plant	non.human	non.human
+SRR16991619	Plant	non.human	non.human
+SRR16991620	Plant	non.human	non.human
+SRR16991627	Plant	non.human	non.human
+SRR17078229	Plant	non.human	non.human
+SRR17078234	Plant	non.human	non.human
+SRR17078246	Plant	non.human	non.human
+SRR17078265	Plant	non.human	non.human
+SRR17629608	Plant	non.human	non.human
+SRR1924237	Plant	non.human	non.human
+SRR1926128	Plant	non.human	non.human
+SRR1926129	Plant	non.human	non.human
+SRR21120501	Plant	non.human	non.human
+SRR21120502	Plant	non.human	non.human
+SRR22859640	Plant	non.human	non.human
+SRR23868012	Plant	non.human	non.human
+SRR23868014	Plant	non.human	non.human
+SRR23972076	Plant	non.human	non.human
+SRR23972077	Plant	non.human	non.human
+SRR23972082	Plant	non.human	non.human
+SRR23972087	Plant	non.human	non.human
+SRR24138979	Plant	non.human	non.human
+SRR3989443	Plant	non.human	non.human
+SRR3989448	Plant	non.human	non.human
+SRR4142433	Plant	non.human	non.human
+SRR4142460	Plant	non.human	non.human
+SRR5166355	Plant	non.human	non.human
+SRR5170319	Plant	non.human	non.human
+SRR5172868	Plant	non.human	non.human
+SRR5195143	Plant	non.human	non.human
+SRR5195145	Plant	non.human	non.human
+SRR5195147	Plant	non.human	non.human
+SRR5467259	Plant	non.human	non.human
+SRR5467262	Plant	non.human	non.human
+SRR5487771	Plant	non.human	non.human
+SRR5829600	Plant	non.human	non.human
+SRR5829609	Plant	non.human	non.human
+SRR6394722	Plant	non.human	non.human
+SRR6394731	Plant	non.human	non.human
+SRR6797237	Plant	non.human	non.human
+SRR6797241	Plant	non.human	non.human
+SRR7072108	Plant	non.human	non.human
+SRR7072209	Plant	non.human	non.human
+SRR7186468	Plant	non.human	non.human
+SRR7186475	Plant	non.human	non.human
+SRR7186478	Plant	non.human	non.human
+SRR7186480	Plant	non.human	non.human
+SRR7523542	Plant	non.human	non.human
+SRR7635079	Plant	non.human	non.human
+SRR8113281	Plant	non.human	non.human
+SRR8113283	Plant	non.human	non.human
+SRR8543778	Plant	non.human	non.human
+SRR8543780	Plant	non.human	non.human
+SRR8543785	Plant	non.human	non.human
+SRR8543789	Plant	non.human	non.human
+SRR8701030	Plant	non.human	non.human
+SRR8701036	Plant	non.human	non.human
+SRR8863207	Plant	non.human	non.human
+SRR8863366	Plant	non.human	non.human
+SRR9694913	Plant	non.human	non.human
+SRR9694915	Plant	non.human	non.human
+ERR10836084	Sediment	non.human	non.human
+ERR10836085	Sediment	non.human	non.human
+ERR10836086	Sediment	non.human	non.human
+ERR10836089	Sediment	non.human	non.human
+ERR10836091	Sediment	non.human	non.human
+ERR6430839	Sediment	non.human	non.human
+ERR6430845	Sediment	non.human	non.human
+ERR6430848	Sediment	non.human	non.human
+ERR6430851	Sediment	non.human	non.human
+SRR13892589	Sediment	non.human	non.human
+SRR13892592	Sediment	non.human	non.human
+SRR14689434	Sediment	non.human	non.human
+SRR14689437	Sediment	non.human	non.human
+SRR14689443	Sediment	non.human	non.human
+SRR17658251	Sediment	non.human	non.human
+SRR17771298	Sediment	non.human	non.human
+SRR17771302	Sediment	non.human	non.human
+SRR19174368	Sediment	non.human	non.human
+SRR19174370	Sediment	non.human	non.human
+SRR19174374	Sediment	non.human	non.human
+SRR19174375	Sediment	non.human	non.human
+SRR19611653	Sediment	non.human	non.human
+SRR19611665	Sediment	non.human	non.human
+SRR20218964	Sediment	non.human	non.human
+SRR20218969	Sediment	non.human	non.human
+SRR20627838	Sediment	non.human	non.human
+SRR21120497	Sediment	non.human	non.human
+SRR21143141	Sediment	non.human	non.human
+SRR21143145	Sediment	non.human	non.human
+SRR21397094	Sediment	non.human	non.human
+SRR21398028	Sediment	non.human	non.human
+SRR21426887	Sediment	non.human	non.human
+SRR21426889	Sediment	non.human	non.human
+SRR21430008	Sediment	non.human	non.human
+SRR21430010	Sediment	non.human	non.human
+SRR21430012	Sediment	non.human	non.human
+SRR21462131	Sediment	non.human	non.human
+SRR21462135	Sediment	non.human	non.human
+SRR21545381	Sediment	non.human	non.human
+SRR21545387	Sediment	non.human	non.human
+SRR21619488	Sediment	non.human	non.human
+SRR21619489	Sediment	non.human	non.human
+SRR21619493	Sediment	non.human	non.human
+SRR21856587	Sediment	non.human	non.human
+SRR21856589	Sediment	non.human	non.human
+SRR22000165	Sediment	non.human	non.human
+SRR22000168	Sediment	non.human	non.human
+SRR22000170	Sediment	non.human	non.human
+SRR22000219	Sediment	non.human	non.human
+SRR22177932	Sediment	non.human	non.human
+SRR22177933	Sediment	non.human	non.human
+SRR22177934	Sediment	non.human	non.human
+SRR22177935	Sediment	non.human	non.human
+SRR22197660	Sediment	non.human	non.human
+SRR22197663	Sediment	non.human	non.human
+SRR22197665	Sediment	non.human	non.human
+SRR22198251	Sediment	non.human	non.human
+SRR22198254	Sediment	non.human	non.human
+SRR22198255	Sediment	non.human	non.human
+SRR22198257	Sediment	non.human	non.human
+SRR22198260	Sediment	non.human	non.human
+SRR22198261	Sediment	non.human	non.human
+SRR22198266	Sediment	non.human	non.human
+SRR22198267	Sediment	non.human	non.human
+SRR22198278	Sediment	non.human	non.human
+SRR22198281	Sediment	non.human	non.human
+SRR22198290	Sediment	non.human	non.human
+SRR22198292	Sediment	non.human	non.human
+SRR22198296	Sediment	non.human	non.human
+SRR22198313	Sediment	non.human	non.human
+SRR22198315	Sediment	non.human	non.human
+SRR22198326	Sediment	non.human	non.human
+SRR22198334	Sediment	non.human	non.human
+SRR22198353	Sediment	non.human	non.human
+SRR22198363	Sediment	non.human	non.human
+SRR22221581	Sediment	non.human	non.human
+SRR22221588	Sediment	non.human	non.human
+SRR22729464	Sediment	non.human	non.human
+SRR22729468	Sediment	non.human	non.human
+SRR22729474	Sediment	non.human	non.human
+SRR22763439	Sediment	non.human	non.human
+SRR22763440	Sediment	non.human	non.human
+SRR22763441	Sediment	non.human	non.human
+SRR22839552	Sediment	non.human	non.human
+SRR22870108	Sediment	non.human	non.human
+SRR22870110	Sediment	non.human	non.human
+SRR22870116	Sediment	non.human	non.human
+SRR23240493	Sediment	non.human	non.human
+SRR23318455	Sediment	non.human	non.human
+SRR23318457	Sediment	non.human	non.human
+SRR23324583	Sediment	non.human	non.human
+SRR23324585	Sediment	non.human	non.human
+SRR23324587	Sediment	non.human	non.human
+SRR23337892	Sediment	non.human	non.human
+SRR23617137	Sediment	non.human	non.human
+SRR23617139	Sediment	non.human	non.human
+SRR23617143	Sediment	non.human	non.human
+SRR23617152	Sediment	non.human	non.human
+SRR23617195	Sediment	non.human	non.human
+SRR23617196	Sediment	non.human	non.human
+SRR23617198	Sediment	non.human	non.human
+SRR23617210	Sediment	non.human	non.human
+SRR23617216	Sediment	non.human	non.human
+SRR23617223	Sediment	non.human	non.human
+SRR23617224	Sediment	non.human	non.human
+SRR23617227	Sediment	non.human	non.human
+SRR23617231	Sediment	non.human	non.human
+SRR23617233	Sediment	non.human	non.human
+SRR23617235	Sediment	non.human	non.human
+SRR23617237	Sediment	non.human	non.human
+SRR23617254	Sediment	non.human	non.human
+SRR23617261	Sediment	non.human	non.human
+SRR23617263	Sediment	non.human	non.human
+SRR23617267	Sediment	non.human	non.human
+SRR23617269	Sediment	non.human	non.human
+SRR23617272	Sediment	non.human	non.human
+SRR23617273	Sediment	non.human	non.human
+SRR23617275	Sediment	non.human	non.human
+SRR23617277	Sediment	non.human	non.human
+SRR23617282	Sediment	non.human	non.human
+SRR23617285	Sediment	non.human	non.human
+SRR23617287	Sediment	non.human	non.human
+SRR23617290	Sediment	non.human	non.human
+SRR23617307	Sediment	non.human	non.human
+SRR23617308	Sediment	non.human	non.human
+SRR24044396	Sediment	non.human	non.human
+SRR24044398	Sediment	non.human	non.human
+SRR24044401	Sediment	non.human	non.human
+SRR24044413	Sediment	non.human	non.human
+SRR24130624	Sediment	non.human	non.human
+SRR24130629	Sediment	non.human	non.human
+SRR24269682	Sediment	non.human	non.human
+SRR24269684	Sediment	non.human	non.human
+SRR24269687	Sediment	non.human	non.human
+SRR24269696	Sediment	non.human	non.human
+SRR24296029	Sediment	non.human	non.human
+SRR24296031	Sediment	non.human	non.human
+SRR24296034	Sediment	non.human	non.human
+SRR24348877	Sediment	non.human	non.human
+SRR24348878	Sediment	non.human	non.human
+SRR24348890	Sediment	non.human	non.human
+SRR24495956	Sediment	non.human	non.human
+SRR24575585	Sediment	non.human	non.human
+SRR24575587	Sediment	non.human	non.human
+SRR24575589	Sediment	non.human	non.human
+SRR24575592	Sediment	non.human	non.human
+SRR24605001	Sediment	non.human	non.human
+SRR24605003	Sediment	non.human	non.human
+SRR24605005	Sediment	non.human	non.human
+ERR10878206	Soil	non.human	non.human
+ERR10878212	Soil	non.human	non.human
+ERR1939168	Soil	non.human	non.human
+ERR1939169	Soil	non.human	non.human
+ERR1939171	Soil	non.human	non.human
+ERR4183324	Soil	non.human	non.human
+ERR4183327	Soil	non.human	non.human
+ERR4183328	Soil	non.human	non.human
+ERR4245119	Soil	non.human	non.human
+ERR4245120	Soil	non.human	non.human
+ERR4245122	Soil	non.human	non.human
+ERR4245124	Soil	non.human	non.human
+ERR4661014	Soil	non.human	non.human
+ERR5037035	Soil	non.human	non.human
+ERR5037036	Soil	non.human	non.human
+ERR5037037	Soil	non.human	non.human
+ERR5214462	Soil	non.human	non.human
+ERR5214469	Soil	non.human	non.human
+ERR5756919	Soil	non.human	non.human
+ERR5757864	Soil	non.human	non.human
+ERR5762211	Soil	non.human	non.human
+ERR5762279	Soil	non.human	non.human
+ERR5762329	Soil	non.human	non.human
+ERR9924899	Soil	non.human	non.human
+ERR9924928	Soil	non.human	non.human
+ERR9935909	Soil	non.human	non.human
+SRR10028483	Soil	non.human	non.human
+SRR10028486	Soil	non.human	non.human
+SRR10028487	Soil	non.human	non.human
+SRR10028488	Soil	non.human	non.human
+SRR1022653	Soil	non.human	non.human
+SRR1024100	Soil	non.human	non.human
+SRR1026851	Soil	non.human	non.human
+SRR1026855	Soil	non.human	non.human
+SRR11823711	Soil	non.human	non.human
+SRR11823712	Soil	non.human	non.human
+SRR11823713	Soil	non.human	non.human
+SRR11823714	Soil	non.human	non.human
+SRR11823715	Soil	non.human	non.human
+SRR12418372	Soil	non.human	non.human
+SRR12418380	Soil	non.human	non.human
+SRR12717691	Soil	non.human	non.human
+SRR12717694	Soil	non.human	non.human
+SRR12717697	Soil	non.human	non.human
+SRR16608031	Soil	non.human	non.human
+SRR16608037	Soil	non.human	non.human
+SRR17651670	Soil	non.human	non.human
+SRR17651671	Soil	non.human	non.human
+SRR17841873	Soil	non.human	non.human
+SRR17841878	Soil	non.human	non.human
+SRR18106138	Soil	non.human	non.human
+SRR18106139	Soil	non.human	non.human
+SRR18729194	Soil	non.human	non.human
+SRR18885320	Soil	non.human	non.human
+SRR18885322	Soil	non.human	non.human
+SRR19611622	Soil	non.human	non.human
+SRR19769807	Soil	non.human	non.human
+SRR19769811	Soil	non.human	non.human
+SRR19769814	Soil	non.human	non.human
+SRR21656309	Soil	non.human	non.human
+SRR21656310	Soil	non.human	non.human
+SRR21737288	Soil	non.human	non.human
+SRR21737295	Soil	non.human	non.human
+SRR21859243	Soil	non.human	non.human
+SRR21876930	Soil	non.human	non.human
+SRR21876935	Soil	non.human	non.human
+SRR21876938	Soil	non.human	non.human
+SRR22138019	Soil	non.human	non.human
+SRR22138024	Soil	non.human	non.human
+SRR22138040	Soil	non.human	non.human
+SRR22269425	Soil	non.human	non.human
+SRR22298211	Soil	non.human	non.human
+SRR22298213	Soil	non.human	non.human
+SRR22298215	Soil	non.human	non.human
+SRR22411264	Soil	non.human	non.human
+SRR22411265	Soil	non.human	non.human
+SRR22411268	Soil	non.human	non.human
+SRR22411274	Soil	non.human	non.human
+SRR22703641	Soil	non.human	non.human
+SRR22703646	Soil	non.human	non.human
+SRR23026120	Soil	non.human	non.human
+SRR23026123	Soil	non.human	non.human
+SRR23095623	Soil	non.human	non.human
+SRR23143851	Soil	non.human	non.human
+SRR23377250	Soil	non.human	non.human
+SRR23377251	Soil	non.human	non.human
+SRR23411710	Soil	non.human	non.human
+SRR23425231	Soil	non.human	non.human
+SRR23651772	Soil	non.human	non.human
+SRR23651778	Soil	non.human	non.human
+SRR23730084	Soil	non.human	non.human
+SRR23730085	Soil	non.human	non.human
+SRR23730086	Soil	non.human	non.human
+SRR23730087	Soil	non.human	non.human
+SRR23823801	Soil	non.human	non.human
+SRR24010765	Soil	non.human	non.human
+SRR24010767	Soil	non.human	non.human
+SRR24124297	Soil	non.human	non.human
+SRR24201523	Soil	non.human	non.human
+SRR24201526	Soil	non.human	non.human
+SRR24201530	Soil	non.human	non.human
+SRR24270361	Soil	non.human	non.human
+SRR24270365	Soil	non.human	non.human
+SRR24270367	Soil	non.human	non.human
+SRR24488716	Soil	non.human	non.human
+SRR24488718	Soil	non.human	non.human
+SRR24488724	Soil	non.human	non.human
+SRR5687767	Soil	non.human	non.human
+SRR5687768	Soil	non.human	non.human
+SRR5688572	Soil	non.human	non.human
+SRR6039440	Soil	non.human	non.human
+SRR7013858	Soil	non.human	non.human
+SRR7013860	Soil	non.human	non.human
+SRR7013861	Soil	non.human	non.human
+SRR8821145	Soil	non.human	non.human
+SRR8821161	Soil	non.human	non.human
+SRR8987900	Soil	non.human	non.human
+SRR8987902	Soil	non.human	non.human
+SRR9656179	Soil	non.human	non.human
+SRR9722238	Soil	non.human	non.human
+ERR2346693	Fresh water	non.human	non.human
+ERR2437276	Fresh water	non.human	non.human
+ERR2437277	Fresh water	non.human	non.human
+ERR2681675	Fresh water	non.human	non.human
+ERR3719145	Fresh water	non.human	non.human
+ERR3719158	Fresh water	non.human	non.human
+ERR3761212	Fresh water	non.human	non.human
+ERR3761218	Fresh water	non.human	non.human
+ERR3761224	Fresh water	non.human	non.human
+ERR3761228	Fresh water	non.human	non.human
+ERR3761230	Fresh water	non.human	non.human
+ERR4194563	Fresh water	non.human	non.human
+ERR4195044	Fresh water	non.human	non.human
+ERR5863101	Fresh water	non.human	non.human
+ERR5863105	Fresh water	non.human	non.human
+ERR5863108	Fresh water	non.human	non.human
+ERR5863113	Fresh water	non.human	non.human
+ERR5863117	Fresh water	non.human	non.human
+ERR5863120	Fresh water	non.human	non.human
+ERR7337716	Fresh water	non.human	non.human
+ERR7337941	Fresh water	non.human	non.human
+ERR7337944	Fresh water	non.human	non.human
+SRR10063240	Fresh water	non.human	non.human
+SRR10063241	Fresh water	non.human	non.human
+SRR10063242	Fresh water	non.human	non.human
+SRR11648337	Fresh water	non.human	non.human
+SRR11648342	Fresh water	non.human	non.human
+SRR11648351	Fresh water	non.human	non.human
+SRR11700401	Fresh water	non.human	non.human
+SRR11700405	Fresh water	non.human	non.human
+SRR11700420	Fresh water	non.human	non.human
+SRR12053443	Fresh water	non.human	non.human
+SRR12088347	Fresh water	non.human	non.human
+SRR12088353	Fresh water	non.human	non.human
+SRR12852618	Fresh water	non.human	non.human
+SRR12911269	Fresh water	non.human	non.human
+SRR13013687	Fresh water	non.human	non.human
+SRR13150677	Fresh water	non.human	non.human
+SRR13150679	Fresh water	non.human	non.human
+SRR13150682	Fresh water	non.human	non.human
+SRR13558448	Fresh water	non.human	non.human
+SRR13558453	Fresh water	non.human	non.human
+SRR13572580	Fresh water	non.human	non.human
+SRR13696273	Fresh water	non.human	non.human
+SRR14300307	Fresh water	non.human	non.human
+SRR14300308	Fresh water	non.human	non.human
+SRR14300309	Fresh water	non.human	non.human
+SRR15164341	Fresh water	non.human	non.human
+SRR15164345	Fresh water	non.human	non.human
+SRR15164349	Fresh water	non.human	non.human
+SRR15198238	Fresh water	non.human	non.human
+SRR15198242	Fresh water	non.human	non.human
+SRR15198245	Fresh water	non.human	non.human
+SRR15198253	Fresh water	non.human	non.human
+SRR1522971	Fresh water	non.human	non.human
+SRR1522973	Fresh water	non.human	non.human
+SRR1522974	Fresh water	non.human	non.human
+SRR15661559	Fresh water	non.human	non.human
+SRR15661560	Fresh water	non.human	non.human
+SRR16108666	Fresh water	non.human	non.human
+SRR16108668	Fresh water	non.human	non.human
+SRR16108674	Fresh water	non.human	non.human
+SRR17021127	Fresh water	non.human	non.human
+SRR17021130	Fresh water	non.human	non.human
+SRR17021131	Fresh water	non.human	non.human
+SRR17974040	Fresh water	non.human	non.human
+SRR17974048	Fresh water	non.human	non.human
+SRR18572987	Fresh water	non.human	non.human
+SRR18572992	Fresh water	non.human	non.human
+SRR18609917	Fresh water	non.human	non.human
+SRR19786820	Fresh water	non.human	non.human
+SRR19786823	Fresh water	non.human	non.human
+SRR19786829	Fresh water	non.human	non.human
+SRR20106307	Fresh water	non.human	non.human
+SRR22077853	Fresh water	non.human	non.human
+SRR22077856	Fresh water	non.human	non.human
+SRR22077860	Fresh water	non.human	non.human
+SRR23126115	Fresh water	non.human	non.human
+SRR23126128	Fresh water	non.human	non.human
+SRR23126142	Fresh water	non.human	non.human
+SRR23363386	Fresh water	non.human	non.human
+SRR23363389	Fresh water	non.human	non.human
+SRR23363403	Fresh water	non.human	non.human
+SRR23493606	Fresh water	non.human	non.human
+SRR23493609	Fresh water	non.human	non.human
+SRR23493610	Fresh water	non.human	non.human
+SRR23493617	Fresh water	non.human	non.human
+SRR23684420	Fresh water	non.human	non.human
+SRR23684421	Fresh water	non.human	non.human
+SRR23684488	Fresh water	non.human	non.human
+SRR23684490	Fresh water	non.human	non.human
+SRR23684561	Fresh water	non.human	non.human
+SRR23928446	Fresh water	non.human	non.human
+SRR4198666	Fresh water	non.human	non.human
+SRR4198832	Fresh water	non.human	non.human
+SRR5352528	Fresh water	non.human	non.human
+SRR5831667	Fresh water	non.human	non.human
+SRR5831669	Fresh water	non.human	non.human
+SRR5896114	Fresh water	non.human	non.human
+SRR5940702	Fresh water	non.human	non.human
+SRR5940796	Fresh water	non.human	non.human
+SRR6262235	Fresh water	non.human	non.human
+SRR6262239	Fresh water	non.human	non.human
+SRR6262244	Fresh water	non.human	non.human
+SRR8272563	Fresh water	non.human	non.human
+SRR8272565	Fresh water	non.human	non.human
+ERR4083949	Wild animal	non.human	human-associated
+ERR4083950	Wild animal	non.human	human-associated
+ERR4676922	Wild animal	non.human	human-associated
+ERR4686055	Wild animal	non.human	human-associated
+ERR5005155	Wild animal	non.human	human-associated
+ERR5005187	Wild animal	non.human	human-associated
+ERR5005200	Wild animal	non.human	human-associated
+ERR5005277	Wild animal	non.human	human-associated
+ERR5005312	Wild animal	non.human	human-associated
+ERR6024164	Wild animal	non.human	human-associated
+ERR6093883	Wild animal	non.human	human-associated
+ERR6101230	Wild animal	non.human	human-associated
+ERR6108966	Wild animal	non.human	human-associated
+ERR6108980	Wild animal	non.human	human-associated
+ERR6108983	Wild animal	non.human	human-associated
+ERR8981360	Wild animal	non.human	human-associated
+ERR8981365	Wild animal	non.human	human-associated
+ERR8981366	Wild animal	non.human	human-associated
+SRR11425428	Wild animal	non.human	human-associated
+SRR11425430	Wild animal	non.human	human-associated
+SRR11528971	Wild animal	non.human	human-associated
+SRR11528973	Wild animal	non.human	human-associated
+SRR12009700	Wild animal	non.human	human-associated
+SRR12009702	Wild animal	non.human	human-associated
+SRR12344477	Wild animal	non.human	human-associated
+SRR12344479	Wild animal	non.human	human-associated
+SRR12344482	Wild animal	non.human	human-associated
+SRR13282552	Wild animal	non.human	human-associated
+SRR13282553	Wild animal	non.human	human-associated
+SRR13282567	Wild animal	non.human	human-associated
+SRR14298095	Wild animal	non.human	human-associated
+SRR14298097	Wild animal	non.human	human-associated
+SRR14298098	Wild animal	non.human	human-associated
+SRR14857231	Wild animal	non.human	human-associated
+SRR14857232	Wild animal	non.human	human-associated
+SRR14857236	Wild animal	non.human	human-associated
+SRR14857242	Wild animal	non.human	human-associated
+SRR14857253	Wild animal	non.human	human-associated
+SRR14860555	Wild animal	non.human	human-associated
+SRR14860559	Wild animal	non.human	human-associated
+SRR14860577	Wild animal	non.human	human-associated
+SRR14860586	Wild animal	non.human	human-associated
+SRR15291763	Wild animal	non.human	human-associated
+SRR15291766	Wild animal	non.human	human-associated
+SRR15315592	Wild animal	non.human	human-associated
+SRR17049896	Wild animal	non.human	human-associated
+SRR17049899	Wild animal	non.human	human-associated
+SRR17049902	Wild animal	non.human	human-associated
+SRR17218405	Wild animal	non.human	human-associated
+SRR17218407	Wild animal	non.human	human-associated
+SRR17218409	Wild animal	non.human	human-associated
+SRR17218421	Wild animal	non.human	human-associated
+SRR1747024	Wild animal	non.human	human-associated
+SRR1747061	Wild animal	non.human	human-associated
+SRR1747062	Wild animal	non.human	human-associated
+SRR1747065	Wild animal	non.human	human-associated
+SRR17704070	Wild animal	non.human	human-associated
+SRR17704071	Wild animal	non.human	human-associated
+SRR17931175	Wild animal	non.human	human-associated
+SRR17965630	Wild animal	non.human	human-associated
+SRR17965634	Wild animal	non.human	human-associated
+SRR17965639	Wild animal	non.human	human-associated
+SRR18314294	Wild animal	non.human	human-associated
+SRR18314299	Wild animal	non.human	human-associated
+SRR19135261	Wild animal	non.human	human-associated
+SRR19135262	Wild animal	non.human	human-associated
+SRR19135264	Wild animal	non.human	human-associated
+SRR19903763	Wild animal	non.human	human-associated
+SRR19903764	Wild animal	non.human	human-associated
+SRR19903775	Wild animal	non.human	human-associated
+SRR20971440	Wild animal	non.human	human-associated
+SRR21155593	Wild animal	non.human	human-associated
+SRR21155734	Wild animal	non.human	human-associated
+SRR22318477	Wild animal	non.human	human-associated
+SRR22318478	Wild animal	non.human	human-associated
+SRR22318479	Wild animal	non.human	human-associated
+SRR23311175	Wild animal	non.human	human-associated
+SRR23311176	Wild animal	non.human	human-associated
+SRR23636706	Wild animal	non.human	human-associated
+SRR23636742	Wild animal	non.human	human-associated
+SRR23636744	Wild animal	non.human	human-associated
+SRR23826135	Wild animal	non.human	human-associated
+SRR23826138	Wild animal	non.human	human-associated
+SRR24145987	Wild animal	non.human	human-associated
+SRR4435568	Wild animal	non.human	human-associated
+SRR4435570	Wild animal	non.human	human-associated
+SRR4435575	Wild animal	non.human	human-associated
+SRR5190122	Wild animal	non.human	human-associated
+SRR5190128	Wild animal	non.human	human-associated
+SRR5420603	Wild animal	non.human	human-associated
+SRR5786450	Wild animal	non.human	human-associated
+SRR5786452	Wild animal	non.human	human-associated
+SRR5786453	Wild animal	non.human	human-associated
+SRR6129790	Wild animal	non.human	human-associated
+SRR6232303	Wild animal	non.human	human-associated
+SRR7080211	Wild animal	non.human	human-associated
+SRR7080213	Wild animal	non.human	human-associated
+SRR7080214	Wild animal	non.human	human-associated
+SRR7597270	Wild animal	non.human	human-associated
+SRR7597641	Wild animal	non.human	human-associated
+SRR7614710	Wild animal	non.human	human-associated
+SRR7614713	Wild animal	non.human	human-associated
+SRR8814928	Wild animal	non.human	human-associated
+SRR8815261	Wild animal	non.human	human-associated
+SRR8986148	Wild animal	non.human	human-associated
+SRR9184935	Wild animal	non.human	human-associated
+SRR9184944	Wild animal	non.human	human-associated
+SRR9943727	Wild animal	non.human	human-associated
+SRR9943761	Wild animal	non.human	human-associated
+SRR9943764	Wild animal	non.human	human-associated
+SRR9943776	Wild animal	non.human	human-associated
+SRR9943781	Wild animal	non.human	human-associated
+SRR9943782	Wild animal	non.human	human-associated
+ERR2587962	Food	human-associated	human-associated
+ERR2587963	Food	human-associated	human-associated
+ERR2587966	Food	human-associated	human-associated
+ERR2587969	Food	human-associated	human-associated
+ERR2587972	Food	human-associated	human-associated
+ERR2587973	Food	human-associated	human-associated
+ERR2982965	Food	human-associated	human-associated
+ERR2982966	Food	human-associated	human-associated
+ERR2982969	Food	human-associated	human-associated
+ERR2982982	Food	human-associated	human-associated
+ERR2982983	Food	human-associated	human-associated
+ERR2982984	Food	human-associated	human-associated
+ERR3310248	Food	human-associated	human-associated
+ERR3310256	Food	human-associated	human-associated
+ERR3310259	Food	human-associated	human-associated
+ERR5737966	Food	human-associated	human-associated
+ERR5738016	Food	human-associated	human-associated
+ERR5740401	Food	human-associated	human-associated
+ERR5740500	Food	human-associated	human-associated
+ERR5740554	Food	human-associated	human-associated
+SRR10212788	Food	human-associated	human-associated
+SRR10212789	Food	human-associated	human-associated
+SRR10212791	Food	human-associated	human-associated
+SRR10212794	Food	human-associated	human-associated
+SRR11605259	Food	human-associated	human-associated
+SRR11605261	Food	human-associated	human-associated
+SRR11605262	Food	human-associated	human-associated
+SRR11605264	Food	human-associated	human-associated
+SRR11605270	Food	human-associated	human-associated
+SRR12063312	Food	human-associated	human-associated
+SRR12063313	Food	human-associated	human-associated
+SRR12063314	Food	human-associated	human-associated
+SRR12063315	Food	human-associated	human-associated
+SRR12063316	Food	human-associated	human-associated
+SRR12063319	Food	human-associated	human-associated
+SRR12171305	Food	human-associated	human-associated
+SRR12441669	Food	human-associated	human-associated
+SRR12441670	Food	human-associated	human-associated
+SRR12441674	Food	human-associated	human-associated
+SRR12441675	Food	human-associated	human-associated
+SRR12441685	Food	human-associated	human-associated
+SRR12441688	Food	human-associated	human-associated
+SRR14373626	Food	human-associated	human-associated
+SRR14373627	Food	human-associated	human-associated
+SRR14373630	Food	human-associated	human-associated
+SRR14385545	Food	human-associated	human-associated
+SRR14526126	Food	human-associated	human-associated
+SRR14526128	Food	human-associated	human-associated
+SRR14526129	Food	human-associated	human-associated
+SRR1514791	Food	human-associated	human-associated
+SRR16638932	Food	human-associated	human-associated
+SRR22865492	Food	human-associated	human-associated
+SRR22865493	Food	human-associated	human-associated
+SRR22865494	Food	human-associated	human-associated
+SRR22865495	Food	human-associated	human-associated
+SRR22865496	Food	human-associated	human-associated
+SRR22865500	Food	human-associated	human-associated
+SRR22865520	Food	human-associated	human-associated
+SRR22865521	Food	human-associated	human-associated
+SRR22947746	Food	human-associated	human-associated
+SRR23559299	Food	human-associated	human-associated
+SRR23881938	Food	human-associated	human-associated
+SRR23881941	Food	human-associated	human-associated
+SRR23881947	Food	human-associated	human-associated
+SRR23881952	Food	human-associated	human-associated
+SRR23984802	Food	human-associated	human-associated
+SRR23984803	Food	human-associated	human-associated
+SRR23984806	Food	human-associated	human-associated
+SRR24093235	Food	human-associated	human-associated
+SRR24093237	Food	human-associated	human-associated
+SRR24093239	Food	human-associated	human-associated
+SRR24093240	Food	human-associated	human-associated
+SRR24093248	Food	human-associated	human-associated
+SRR24093260	Food	human-associated	human-associated
+SRR7234262	Food	human-associated	human-associated
+SRR8451813	Food	human-associated	human-associated
+SRR8451814	Food	human-associated	human-associated
+SRR8451818	Food	human-associated	human-associated
+SRR8451824	Food	human-associated	human-associated
+SRR8451831	Food	human-associated	human-associated
+SRR8451840	Food	human-associated	human-associated
+SRR8931515	Food	human-associated	human-associated
+SRR8931516	Food	human-associated	human-associated
+SRR8931517	Food	human-associated	human-associated
+SRR8931518	Food	human-associated	human-associated
+SRR9701327	Food	human-associated	human-associated
+SRR9701328	Food	human-associated	human-associated
+ERR10878213	Seawater	non.human	non.human
+ERR10878215	Seawater	non.human	non.human
+ERR4660988	Seawater	non.human	non.human
+ERR4660993	Seawater	non.human	non.human
+ERR4660995	Seawater	non.human	non.human
+ERR4674039	Seawater	non.human	non.human
+ERR4674123	Seawater	non.human	non.human
+ERR4674129	Seawater	non.human	non.human
+ERR4674144	Seawater	non.human	non.human
+ERR4674185	Seawater	non.human	non.human
+ERR5037032	Seawater	non.human	non.human
+ERR5037034	Seawater	non.human	non.human
+ERR5654717	Seawater	non.human	non.human
+ERR5654718	Seawater	non.human	non.human
+ERR5654719	Seawater	non.human	non.human
+ERR6496061	Seawater	non.human	non.human
+SRR10109477	Seawater	non.human	non.human
+SRR10589504	Seawater	non.human	non.human
+SRR10694917	Seawater	non.human	non.human
+SRR11826813	Seawater	non.human	non.human
+SRR11923211	Seawater	non.human	non.human
+SRR11923214	Seawater	non.human	non.human
+SRR12022360	Seawater	non.human	non.human
+SRR12022364	Seawater	non.human	non.human
+SRR12042305	Seawater	non.human	non.human
+SRR12561397	Seawater	non.human	non.human
+SRR12561399	Seawater	non.human	non.human
+SRR12889302	Seawater	non.human	non.human
+SRR12889305	Seawater	non.human	non.human
+SRR12936770	Seawater	non.human	non.human
+SRR12937377	Seawater	non.human	non.human
+SRR12937698	Seawater	non.human	non.human
+SRR13153511	Seawater	non.human	non.human
+SRR13153527	Seawater	non.human	non.human
+SRR13153554	Seawater	non.human	non.human
+SRR13153557	Seawater	non.human	non.human
+SRR13262723	Seawater	non.human	non.human
+SRR13262725	Seawater	non.human	non.human
+SRR14596393	Seawater	non.human	non.human
+SRR14596396	Seawater	non.human	non.human
+SRR14596400	Seawater	non.human	non.human
+SRR15530465	Seawater	non.human	non.human
+SRR15530469	Seawater	non.human	non.human
+SRR15530478	Seawater	non.human	non.human
+SRR16686516	Seawater	non.human	non.human
+SRR17118806	Seawater	non.human	non.human
+SRR17118813	Seawater	non.human	non.human
+SRR17118858	Seawater	non.human	non.human
+SRR17686859	Seawater	non.human	non.human
+SRR17686882	Seawater	non.human	non.human
+SRR17776526	Seawater	non.human	non.human
+SRR17776529	Seawater	non.human	non.human
+SRR17776532	Seawater	non.human	non.human
+SRR17776533	Seawater	non.human	non.human
+SRR17776539	Seawater	non.human	non.human
+SRR18278848	Seawater	non.human	non.human
+SRR18489174	Seawater	non.human	non.human
+SRR18489175	Seawater	non.human	non.human
+SRR18682723	Seawater	non.human	non.human
+SRR18682724	Seawater	non.human	non.human
+SRR18682953	Seawater	non.human	non.human
+SRR18682980	Seawater	non.human	non.human
+SRR18683002	Seawater	non.human	non.human
+SRR18720396	Seawater	non.human	non.human
+SRR20019835	Seawater	non.human	non.human
+SRR20019839	Seawater	non.human	non.human
+SRR20019841	Seawater	non.human	non.human
+SRR20241890	Seawater	non.human	non.human
+SRR20241900	Seawater	non.human	non.human
+SRR20241907	Seawater	non.human	non.human
+SRR2103021	Seawater	non.human	non.human
+SRR2103037	Seawater	non.human	non.human
+SRR21425106	Seawater	non.human	non.human
+SRR21425109	Seawater	non.human	non.human
+SRR21474775	Seawater	non.human	non.human
+SRR21474777	Seawater	non.human	non.human
+SRR21474781	Seawater	non.human	non.human
+SRR24739285	Seawater	non.human	non.human
+SRR24739286	Seawater	non.human	non.human
+SRR24739288	Seawater	non.human	non.human
+SRR2837116	Seawater	non.human	non.human
+SRR2837128	Seawater	non.human	non.human
+SRR3960576	Seawater	non.human	non.human
+SRR3960580	Seawater	non.human	non.human
+SRR3960684	Seawater	non.human	non.human
+SRR3961604	Seawater	non.human	non.human
+SRR3962680	Seawater	non.human	non.human
+SRR3962772	Seawater	non.human	non.human
+SRR3962773	Seawater	non.human	non.human
+SRR3963456	Seawater	non.human	non.human
+SRR3963571	Seawater	non.human	non.human
+SRR3963622	Seawater	non.human	non.human
+SRR3965586	Seawater	non.human	non.human
+SRR3965676	Seawater	non.human	non.human
+SRR3965873	Seawater	non.human	non.human
+SRR3965875	Seawater	non.human	non.human
+SRR3967025	Seawater	non.human	non.human
+SRR3967558	Seawater	non.human	non.human
+SRR3967700	Seawater	non.human	non.human
+SRR3968060	Seawater	non.human	non.human
+SRR3968063	Seawater	non.human	non.human
+SRR4188656	Seawater	non.human	non.human
+SRR4188658	Seawater	non.human	non.human
+SRR4831644	Seawater	non.human	non.human
+SRR4831648	Seawater	non.human	non.human
+SRR5788153	Seawater	non.human	non.human
+SRR5788329	Seawater	non.human	non.human
+SRR5839047	Seawater	non.human	non.human
+SRR6269009	Seawater	non.human	non.human
+SRR6269031	Seawater	non.human	non.human
+SRR6387558	Seawater	non.human	non.human
+SRR6387564	Seawater	non.human	non.human
+SRR7058355	Seawater	non.human	non.human
+SRR7058482	Seawater	non.human	non.human
+SRR8062323	Seawater	non.human	non.human
+SRR8062327	Seawater	non.human	non.human
