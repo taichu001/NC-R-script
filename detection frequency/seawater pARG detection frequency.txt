@@ -1,0 +1,2 @@
+	Livestock 	Human	Wildlife	Food	Fresh water	Soil	Aquatic organism	Sediments	Plant	Insects	Seawater
+Detection rate	0	0	0.0171	0.0313	0	0	0.045	0.0183	0.016	0.0085	0.0355
